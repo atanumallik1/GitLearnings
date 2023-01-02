@@ -20,5 +20,5 @@
             - unstage the file 
             - click on discard changes button 
     - `Stash`
-        - You can `stash` the files / changes in a branch using `...`-->`stash`
-        - You can also stash untracked files using another option 
+        - You can `stash` the files / changes in a branch using `...` --> `stash`
+        - You can also stash untracked files using another option `stash(include untracked)`
