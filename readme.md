@@ -44,7 +44,7 @@ If you get this error you need to do something like this
     ````
     The `git add` command moves changes from the working directory to the Git staging area. The staging area is where you prepare a snapshot of a set of changes before committing them to the official history.
 
-    ![Image](/BitBucket/Images/1/1.svg)
+    ![Image](/Images/1/1.svg)
 
 - Check the status of the file.
     ````Shell
@@ -59,7 +59,7 @@ If you get this error you need to do something like this
     ````
     The `git commit` takes the staged snapshot and commits it to the project history. Combined with `git add`, this process defines the basic workflow for all Git users.
 
-    ![Image](/BitBucket/Images/1/2.svg)
+    ![Image](/Images/1/2.svg)
 
 
 ## Step 3. Pushing to Remote Repo
@@ -113,7 +113,7 @@ You need to raise a PR in real life apps. But in small application we can use co
 ````
 $ git push origin main
 ````
-![Image](/BitBucket/Images/1/3.svg)
+![Image](/Images/1/3.svg)
 
 
 ## Reference 
