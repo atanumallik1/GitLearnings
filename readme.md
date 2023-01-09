@@ -116,5 +116,21 @@ $ git push origin main
 ![Image](/Images/1/3.svg)
 
 
+## Git Difference 
+
+Find difference between Working Area and Index/Staging area
+````
+git diff
+````
+Find difference between  Index/Staging area and Local Repository ( which holds committed data)
+````
+git diff  --cached
+````
+
+Find difference between  branches
+````
+git diff master feature_branch
+````
+
 ## Reference 
 - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud#create-the-repository
